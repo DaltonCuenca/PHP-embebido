@@ -1,0 +1,12 @@
+:root {
+    --color-principal-claro: #aabbcc;
+    --color-principal: #8899aa;
+    --color-principal-oscuro: #667788;
+
+    --color-letras-claro: #ffffff;
+    --color-letras: #7c7c7c;
+    --color-letras-oscuro: #000000;
+}
+*{
+    box-sizing: border-box;
+}
